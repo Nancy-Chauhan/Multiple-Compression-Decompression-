@@ -186,21 +186,3 @@ int compress3(int fd,char *ma)
 	close(efd);
 	printf("%s: ends\n",__func__);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
